@@ -1,1 +1,3 @@
 # Detect_Pneumonia_in_Chest_X-Rays
+
+In this project, the classification of Chest X-rays images into no disease, bacterial and viral pneumonia was conducted. Various image preprocessing steps and augmentation were applied, so as the machine learning models could benefit from these improved images. To build the models, transfer learning was used along with fine-tuning of hyper parameters. The performance of EfficientNetB0, B4, B7, V2-L V2-B0 and MobileNetV2 was examined in terms of accuracy score. The results clearly revealed that EfficientNetB0 model outperforms all of them with an accuracy of 86.5%.
